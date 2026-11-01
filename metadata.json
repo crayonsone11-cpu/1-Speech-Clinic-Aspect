@@ -1,0 +1,6 @@
+{
+  "name": "Aspect Speech Therapy Dublin",
+  "description": "Child-centred, neurodiversity-affirming private pediatric speech and language therapy across Dublin, Kildare, and Wicklow. Led by CORU-registered and ASHA-certified clinicians.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
